@@ -1,0 +1,7 @@
+com\luxoft\steps\Auxiliary.class
+com\luxoft\page\MainPage.class
+com\luxoft\RunTest.class
+com\luxoft\steps\MyStepsDefWeb.class
+com\luxoft\steps\Hooks.class
+com\luxoft\steps\AddStepsDef.class
+com\luxoft\steps\MyStepDefinitions.class
